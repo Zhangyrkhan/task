@@ -17,7 +17,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["https://taskm-tgi5.onrender.com, http://localhost:3000", "http://localhost:3001, https://diplomka-taskm2.netlify.app/"],
+    origin: ["http://localhost:3000", "http://localhost:3001, https://diplomka-taskm2.netlify.app/"],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
