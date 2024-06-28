@@ -1,15 +1,10 @@
 Task Manager
 Cозданно с использованием MongoDB, Express.js, React и Node.js 
 
-![Снимок экрана 2024-05-04 133825 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/5b8f4e5a-9390-4039-a745-0c2fe3f74276)
-
-![Снимок экрана 2024-05-04 133203 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/fc1d2cbb-5839-46ee-92ee-3d3271808de0)
-
-![Снимок экрана 2024-05-04 133151 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/e06a2c3a-0dcd-412b-a858-aa293977163b)
-
-![Снимок экрана 2024-05-04 132857](https://github.com/Zhangyrkhan/task/assets/136449165/ebe953eb-4f23-48f1-ada8-a23b281f966b)
 
 ![Снимок экрана 2024-05-04 132709](https://github.com/Zhangyrkhan/task/assets/136449165/673933fe-f950-4705-b81b-00faaa3f0b6c)
+
+![Снимок экрана 2024-05-04 132857](https://github.com/Zhangyrkhan/task/assets/136449165/ebe953eb-4f23-48f1-ada8-a23b281f966b)
 
 ![Снимок экрана 2024-05-04 132736](https://github.com/Zhangyrkhan/task/assets/136449165/c5249ca3-a4f3-4c96-b413-72e90cd6e0ec)
 
@@ -24,3 +19,9 @@ Cозданно с использованием MongoDB, Express.js, React и No
 ![Снимок экрана 2024-05-04 132806](https://github.com/Zhangyrkhan/task/assets/136449165/dbbf7d4f-4d62-4cc6-a777-79e7c0dd9a3f)
 
 ![Снимок экрана 2024-05-04 133840 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/53231e1c-ed2c-4183-a7a8-1cb87bb644a6)
+
+![Снимок экрана 2024-05-04 133151 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/e06a2c3a-0dcd-412b-a858-aa293977163b)
+
+![Снимок экрана 2024-05-04 133825 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/5b8f4e5a-9390-4039-a745-0c2fe3f74276)
+
+![Снимок экрана 2024-05-04 133203 (1)](https://github.com/Zhangyrkhan/task/assets/136449165/fc1d2cbb-5839-46ee-92ee-3d3271808de0)
